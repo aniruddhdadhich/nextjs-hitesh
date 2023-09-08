@@ -16,7 +16,7 @@ const LoginPage = () => {
 
 
   return (
-    <h1 className='text-2xl text-green-400'>LoginPage</h1>
+    <h1 className='text-2xl text-green-400'>LoginPage update</h1>
   )
 }
 
